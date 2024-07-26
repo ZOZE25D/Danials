@@ -1,0 +1,203 @@
+@keyframes ani-header{
+    0%{
+        content: ' |';
+    }
+    2%{
+        content: ' L|';
+    }
+    4%{
+        content: ' La|';
+    }
+    6%{
+        content: ' Lar|';
+    }
+    8%{
+        content: ' Larr|';
+    }
+    10%{
+        content: ' Larry|';
+    }
+    12%{
+        content: ' Larry |';
+    }
+    14%{
+        content: ' Larry D|';
+    }
+    15%{
+        content: ' Larry D|';
+    }
+    16%{
+        content: ' Larry Da|';
+    }
+    17%{
+        content: ' Larry Dan|';
+    }
+    18%{
+        content: ' Larry Dani|';
+    }
+    19%{
+        content: ' Larry Danie|';
+    }
+    20%{
+        content: ' Larry Daniel|';
+    }
+    21%{
+        content: ' Larry Daniels|';
+    }
+    26%{
+        content: ' Larry Daniel|';
+    }
+    28%{
+        content: ' Larry Danie|';
+    }
+    30%{
+        content: ' Larry Dani|';
+    }
+    32%{
+        content: ' Larry Dan|';
+    }
+    34%{
+        content: ' Larry Da|';
+    }
+    38%{
+        content: ' Larry D|';
+    }
+    40%{
+        content: ' Larry |';
+    }
+    42%{
+        content: ' Larry|';
+    }
+    43%{
+        content: ' Larr|';
+    }
+    44%{
+        content: ' Lar|';
+    }
+    46%{
+        content: ' La|';
+    }
+    48%{
+        content: ' L|';
+    }
+    49%{
+        content: ' |';
+    }
+    55%{
+        content: ' D|';
+    }
+    56%{
+        content: ' De|';
+    }
+    58%{
+        content: ' Dev|';
+    }
+    60%{
+        content: ' Deve|';
+    }
+    62%{
+        content: ' Devel|';
+    }
+    64%{
+        content: ' Develo|';
+    }
+    66%{
+        content: ' Develop|';
+    }
+    68%{
+        content: ' Develope|';
+    }
+    70%{
+        content: ' Developer|';
+    }
+    76%{
+        content: ' Develope|';
+    }
+    78%{
+        content: ' Develop|';
+    }
+    80%{
+        content: ' Develo|';
+    }
+    82%{
+        content: ' Devel|';
+    }
+    84%{
+        content: ' Deve|';
+    }
+    86%{
+        content: ' Dev|';
+    }
+    88%{
+        content: ' De|';
+    }
+    89%{
+        content: ' D|';
+    }
+    93%{
+        content: ' De|';
+    }
+    94%{
+        content: ' Des|';
+    }
+    95%{
+        content: ' Desi|';
+    }
+    96%{
+        content: ' Desig|';
+    }
+    97%{
+        content: ' Design|';
+    }
+    98%{
+        content: ' Designe|';
+    }
+    100%{
+        content: ' Designer|';
+    }
+}
+
+@keyframes left-move {
+    50% {
+        left: 0;
+        width: 12px;
+        height: 12px;
+    }
+
+    100% {
+        left: 0;
+        border-radius: 0;
+        width: 50%;
+        height: 100%;
+    }
+}
+
+@keyframes right-move {
+    50% {
+        right: 0;
+        width: 12px;
+        height: 12px;
+    }
+
+    100% {
+        right: 0;
+        border-radius: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@keyframes left-move {
+    50% {
+        left: 0;
+        width: 12px;
+        height: 12px;
+    }
+
+    100% {
+        left: 0;
+        border-radius: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
